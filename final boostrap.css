@@ -1,0 +1,55 @@
+.dropdown {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.dropdown-menu {
+background-color: #F7E3E3;
+border-color: #C10013;
+margin-left: 45px;
+
+}
+.dropdown-divider {
+  border-color: #C10013;
+  border-top-width: medium;
+}
+/* Exercises -01 Ends */
+
+
+/* Exercises -02 Starts */
+.col-sm-9 {
+   background-color:#EEEEEE;
+   height:300px;
+}
+
+.Exercises-02- {
+  background-color:#34B9E9;
+  height:50px;
+  margin-left:10px;
+  margin-top: 10px
+}
+
+.Exercises-02-:hover {
+  background-color: #58C6EE;
+}
+
+.nav-link {
+  padding-bottom: 15px;
+}
+
+.Exercises-02-01 {
+   height:45px;
+   margin-bottom: 10px
+}
+
+.dropA {
+  background-color:#34B9E9;
+}
+
+.dropdown-item {
+  font-weight: bolder;
+  font-size: 15px;
+}
+.dropdown-item:hover {
+    background-color: #58C6EE;
+}
